@@ -1,3 +1,7 @@
+/**
+ * 생일 축하 카드 앱
+ */
+
 package com.example.happybirthday
 
 import androidx.appcompat.app.AppCompatActivity
